@@ -1,3 +1,5 @@
 /.quarto/
 /docs/
 /.luarc.json
+.Rhistory
+.RData
